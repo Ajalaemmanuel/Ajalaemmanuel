@@ -208,7 +208,7 @@ Interested in opportunities involving software engineering, backend development,
 <a href="https://linkedin.com/in/emmanuelajalaa">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge" alt="Connect on LinkedIn">
 </a>
-<a href="mailto:Emmanuelajala22@gmail.com">
+<a href="mailto:Emmanuel@pypes.dev">
   <img src="https://img.shields.io/badge/Send%20an%20Email-red?style=for-the-badge" alt="Send an Email">
 </a>
 
