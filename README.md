@@ -1,10 +1,15 @@
-````markdown
 <div align="center">
 
 # Emmanuel Ajala
 
-### Software Engineering | Artificial Intelligence | Backend Systems
+### Software Engineering • Artificial Intelligence • Backend Systems
 
+<a href="mailto:emmanuel@pypes.dev">
+  <img src="https://img.shields.io/badge/Email-Emmanuelajala22%40gmail.com-red?style=for-the-badge" alt="Email">
+</a>
+<a href="https://linkedin.com/in/emmanuelajalaa">
+  <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Ajala-blue?style=for-the-badge" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -33,20 +38,20 @@ public final class EmmanuelAjala {
 }
 ```
 
-I am a software engineer with a background in computer science and mechatronics engineering.
+Software engineer with a background in computer science and mechatronics engineering.
 
-I enjoy transforming complex ideas into reliable software products, with a particular focus on backend systems, artificial intelligence, computer vision, real-time applications, and cloud technologies.
+I enjoy transforming complex ideas into reliable software products, with a focus on backend systems, artificial intelligence, computer vision, real-time applications, and cloud technologies.
 
 ---
 
 ## What I Work On
 
-- Building scalable backend services with **Java, Spring Boot, Node.js, and REST APIs**
-- Developing real-time applications using **WebSockets and event-driven architecture**
-- Creating computer vision systems with **YOLO, OpenCV, PyTorch, and TensorFlow**
-- Building retrieval-augmented generation and AI agent applications
-- Designing cloud-ready systems with **AWS, GCP, Docker, and PostgreSQL**
-- Improving software quality through automated testing and CI/CD workflows
+* Building backend services with Java, Spring Boot, Node.js, and REST APIs
+* Developing real-time applications using WebSockets and event-driven architecture
+* Creating computer vision systems with YOLO, OpenCV, PyTorch, and TensorFlow
+* Building retrieval-augmented generation and AI agent applications
+* Designing cloud-ready systems with AWS, GCP, Docker, and PostgreSQL
+* Improving software quality through automated testing and CI/CD workflows
 
 ---
 
@@ -56,37 +61,37 @@ I enjoy transforming complex ideas into reliable software products, with a parti
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3">
 
-### Backend & Data
+### Backend and Data
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge" alt="Apache Kafka">
 
 ### Artificial Intelligence
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge" alt="TensorFlow">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="OpenCV">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" alt="OpenAI API">
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge" alt="Claude">
 
-### Cloud & DevOps
+### Cloud and DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker">
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge" alt="Azure DevOps">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git">
 
 </div>
 
@@ -100,30 +105,30 @@ I enjoy transforming complex ideas into reliable software products, with a parti
 
 ### Transaction Processing Microservice
 
-**Java · Spring Boot · Kafka · SQL**
+**Java • Spring Boot • Kafka • SQL**
 
 Built and tested a Spring Boot microservice that:
 
-- Consumes Kafka transaction streams
-- Validates and persists transaction data
-- Integrates with external REST APIs
-- Exposes endpoints for balance management
-- Uses Spring Data JPA and H2
+* Consumes Kafka transaction streams
+* Validates and persists transaction data
+* Integrates with external REST APIs
+* Exposes endpoints for balance management
+* Uses Spring Data JPA and H2
 
 </td>
 <td width="50%" valign="top">
 
 ### Real-Time Log Analyzer
 
-**Java · Spring Boot · Multithreading**
+**Java • Spring Boot • Multithreading**
 
 Developed an observability tool that:
 
-- Processes application logs in real time
-- Uses multithreading for continuous analysis
-- Detects production issues as they occur
-- Supports configurable operational alerts
-- Improves visibility into application health
+* Processes application logs in real time
+* Uses multithreading for continuous analysis
+* Detects production issues as they occur
+* Supports configurable operational alerts
+* Improves visibility into application health
 
 </td>
 </tr>
@@ -133,30 +138,30 @@ Developed an observability tool that:
 
 ### RAG Chatbot
 
-**Python · Hugging Face · FAISS · Streamlit**
+**Python • Hugging Face • FAISS • Streamlit**
 
 Prototyped an end-to-end retrieval-augmented generation system that:
 
-- Retrieves relevant contextual information
-- Uses FAISS for vector similarity search
-- Integrates Hugging Face language models
-- Provides an interactive Streamlit interface
-- Generates context-aware responses
+* Retrieves relevant contextual information
+* Uses FAISS for vector similarity search
+* Integrates Hugging Face language models
+* Provides an interactive Streamlit interface
+* Generates context-aware responses
 
 </td>
 <td width="50%" valign="top">
 
 ### Computer Vision Systems
 
-**YOLO · OpenCV · PyTorch · TensorFlow**
+**YOLO • OpenCV • PyTorch • TensorFlow**
 
 Experience developing AI-powered vision systems involving:
 
-- Object detection
-- Animal re-identification
-- High-dimensional feature extraction
-- Multi-camera subject tracking
-- Model evaluation and optimization
+* Object detection
+* Animal re-identification
+* High-dimensional feature extraction
+* Multi-camera subject tracking
+* Model evaluation and optimization
 
 </td>
 </tr>
@@ -168,18 +173,16 @@ Experience developing AI-powered vision systems involving:
 
 ### University of Alabama at Birmingham
 
-**Master of Science in Computer Science**  
+**Master of Science in Computer Science**
 Graduated December 2025
 
-Activities:
-
-- Association for Computing Machinery
-- UAB Soccer Club
-- URec Intramural Supervisor
+* Association for Computing Machinery
+* UAB Soccer Club
+* URec Intramural Supervisor
 
 ### Afe Babalola University
 
-**Bachelor of Engineering in Mechatronics Engineering**  
+**Bachelor of Engineering in Mechatronics Engineering**
 Graduated November 2021
 
 ---
@@ -198,13 +201,15 @@ Cloud Infrastructure        ████████████████░�
 
 <div align="center">
 
-### Let's Connect
+## Let's Connect
 
-I am interested in opportunities involving software engineering,  
-backend development, artificial intelligence, and machine learning.
+Interested in opportunities involving software engineering, backend development, artificial intelligence, and machine learning.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuelajalaa)
-[![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emmanuelajala22@gmail.com)
+<a href="https://linkedin.com/in/emmanuelajalaa">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge" alt="Connect on LinkedIn">
+</a>
+<a href="mailto:Emmanuelajala22@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-red?style=for-the-badge" alt="Send an Email">
+</a>
 
 </div>
-````
