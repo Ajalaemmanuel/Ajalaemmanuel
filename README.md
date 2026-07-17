@@ -5,7 +5,7 @@
 ### Software Engineering • Artificial Intelligence • Backend Systems
 
 <a href="mailto:emmanuel@pypes.dev">
-  <img src="https://img.shields.io/badge/Email-Emmanuelajala22%40gmail.com-red?style=for-the-badge" alt="Email">
+  <img src="https://img.shields.io/badge/Email-emmanuel%40pypes.dev-red?style=for-the-badge" alt="Email">
 </a>
 <a href="https://linkedin.com/in/emmanuelajalaa">
   <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Ajala-blue?style=for-the-badge" alt="LinkedIn">
