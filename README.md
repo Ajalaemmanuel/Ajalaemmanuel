@@ -5,8 +5,6 @@
 
 ### Software Engineering | Artificial Intelligence | Backend Systems
 
-[![Email](https://img.shields.io/badge/Email-Emmanuel_Ajala-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emmanuelajala22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Ajala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuelajalaa)
 
 </div>
 
