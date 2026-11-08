@@ -4,8 +4,8 @@
 
 ### Software Engineering • Artificial Intelligence • Backend Systems
 
-<a href="mailto:emmanuel@pypes.dev">
-  <img src="https://img.shields.io/badge/Email-emmanuel%40pypes.dev-red?style=for-the-badge" alt="Email">
+<a href="mailto:emmanuelajala22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-emmanuelajala22%40gmail.com-red?style=for-the-badge" alt="Email">
 </a>
 <a href="https://linkedin.com/in/emmanuelajalaa">
   <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Ajala-blue?style=for-the-badge" alt="LinkedIn">
@@ -208,8 +208,8 @@ Interested in opportunities involving software engineering, backend development,
 <a href="https://linkedin.com/in/emmanuelajalaa">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge" alt="Connect on LinkedIn">
 </a>
-<a href="mailto:Emmanuel@pypes.dev">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-red?style=for-the-badge" alt="Send an Email">
+<a href="mailto:emmanuelajala22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-emmanuelajala22%40gmail.com-red?style=for-the-badge" alt="Email">
 </a>
 
 </div>
