@@ -205,8 +205,8 @@ Cloud Infrastructure        ████████████████░�
 
 Interested in opportunities involving software engineering, backend development, artificial intelligence, and machine learning.
 
-<a href="https://linkedin.com/in/emmanuelajalaa">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge" alt="Connect on LinkedIn">
+<a href="mailto:emmanuelajala22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-emmanuelajala22%40gmail.com-red?style=for-the-badge" alt="Email">
 </a>
 <a href="mailto:emmanuelajala22@gmail.com">
   <img src="https://img.shields.io/badge/Email-emmanuelajala22%40gmail.com-red?style=for-the-badge" alt="Email">
